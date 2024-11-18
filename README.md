@@ -5,9 +5,7 @@
   <li>Saya menggunakan Compiled CSS and JS, untuk menggunakan Bootstrap, saya perlu download terlebih dahulu dan meng-Extract nya  .</li>
   <li>Saya menggunakan custom warna dengan menggunakan css external biasa.</li>
   <li>Saya menambahkan beberapa properti di dalam tersebut, seperti p-3 untuk memberikan padding pada elemen, text-center untuk mengatur posisi teks. Untuk lainnya bisa di baca didalam file html.</li>
-  <li></li>
 </ul>
-<br>
 <br>
 <br>
 <hr>
@@ -22,14 +20,14 @@
 <img width="960" alt="Screenshot 2024-11-19 000055" src="https://github.com/user-attachments/assets/25e6f969-1314-4966-9d08-5f2f71c10bd5">
 <br>
 <br>
-<br>
 <hr>
 <h3>Hasil akhir website dengan styling bootstrap.</h3>
-<hr>
 <img width="957" alt="Screenshot 2024-11-18 235356" src="https://github.com/user-attachments/assets/577ff350-ea75-4318-8d3b-262f8fcd4472">
 <img width="960" alt="Screenshot 2024-11-19 000239" src="https://github.com/user-attachments/assets/09033213-8de4-44d0-8c40-bc56124f3f33">
 <img width="960" alt="Screenshot 2024-11-19 000249" src="https://github.com/user-attachments/assets/8fd4d516-8ca6-43ae-b101-45a2c3261174">
 <br>
+<br>
+<hr>
 <h3>Lakukan validasi dokumen html dengan mengakses http://validator.w3.org</h3>
 <img width="960" alt="Screenshot 2024-11-18 235227" src="https://github.com/user-attachments/assets/23e01e0b-fa5c-4a46-b686-c4083985e229">
 
